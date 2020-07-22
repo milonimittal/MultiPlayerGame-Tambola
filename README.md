@@ -6,4 +6,5 @@ There is one moderator and N players. Each player has a card containing 10 rando
 The game has been implemented using JAVA and it uses the Singleton Design Pattern, Observer Design Pattern and Multithreading.
 
 ## Sample Output
-![](images/tambola_img1.PNG) ![](images/tambola_img2.PNG) 
+![](images/tambola_img1.PNG){:height="24px" width="48px"}
+![](images/tambola_img2.PNG){:height="24px" width="48px"}
