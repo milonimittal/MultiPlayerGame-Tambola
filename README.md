@@ -7,3 +7,6 @@ The game has been implemented using JAVA and it uses the Singleton Design Patter
 
 ## Sample Output
 ![](images/tambola_img2.PNG) <!-- .element height="10%" width="10%" -->
+
+## Execution
+Run MultiPlayerGame.java to execute the code.
